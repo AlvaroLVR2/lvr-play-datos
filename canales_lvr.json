@@ -36,17 +36,17 @@
       "event_country": "Perú"
     },
     {
-      "event_name_channel": "ESPN 5",
-      "event_image_url": "http://imgfz.com/i/Q125jzE.jpeg",
-      "event_type_url": "Exo",
-      "event_url": "https://tyg2mnl9.fubohd.com/espn5/mono.m3u8?token=90f4501a808633ebeea0ccddc63fd98f17c589ba-b9-1777522766-1777504766",
-      "event_country": "Deportes"
-    },
-        {
       "event_name_channel": "ESPN",
       "event_image_url": "http://imgfz.com/i/LaGMqf1.jpeg",
       "event_type_url": "Exo",
-      "event_url": "https://c2nvdxq.fubohd.com/espn/mono.m3u8?token=397bf90de91858d8f66f77d708700421eef1df38-a1-1777523155-1777505155",
+      "event_url": "https://customer-i41j3tpxy3nf5ekr.cloudflarestream.com/c7fffbfddd8f61fb0f9f63bd5afb21d9/manifest/video.m3u8",
+      "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "ESPN 5",
+      "event_image_url": "http://imgfz.com/i/Q125jzE.jpeg",
+      "event_type_url": "Exo",
+      "event_url": "https://customer-i41j3tpxy3nf5ekr.cloudflarestream.com/d50c7f3c368a8931acaf7c5189ba00eb/manifest/video.m3u8",
       "event_country": "Deportes"
     }
   ]
