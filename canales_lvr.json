@@ -42,6 +42,13 @@
       "event_url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
       "event_country": "Bolivia"
     },
+        {
+      "event_name_channel": "RTP",
+      "event_image_url": "http://imgfz.com/i/tszE90N.jpeg",
+      "event_type_url": "Exo",
+      "event_url": "https://rtp.noxun.net/hls/stream.m3u8",
+      "event_country": "Bolivia"
+    },
     {
       "event_name_channel": "Latina",
       "event_image_url": "http://imgfz.com/i/CRr25Q8.jpeg",
@@ -62,6 +69,13 @@
       "event_type_url": "Exo",
       "event_url": "https://customer-i41j3tpxy3nf5ekr.cloudflarestream.com/d50c7f3c368a8931acaf7c5189ba00eb/manifest/video.m3u8",
       "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "Malcolm",
+      "event_image_url": "http://imgfz.com/i/vzJ8Y6w.jpeg",
+      "event_type_url": "Exo",
+      "event_url": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
+      "event_country": "24/7"
     }
   ]
 }
