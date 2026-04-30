@@ -29,6 +29,20 @@
       "event_country": "Bolivia"
     },
     {
+      "event_name_channel": "Bolivia TV 2",
+      "event_image_url": "http://imgfz.com/i/rRXvw1U.jpeg",
+      "event_type_url": "Exo",
+      "event_url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(JdzKOygUhUr04hwYIQGkoBPq0DAVffHWjCHwwdws0o7hha52EqvUIJCKYHAEJccyBZFp2YIGRpaXFHSmVYZpz605wJVb1jieejocEjNPM3L9gYEGyHUK_VZ4ZjpRIioT)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "event_country": "Bolivia"
+    },
+    {
+      "event_name_channel": "F10",
+      "event_image_url": "http://imgfz.com/i/tszE90N.jpeg",
+      "event_type_url": "Exo",
+      "event_url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
+      "event_country": "Bolivia"
+    },
+    {
       "event_name_channel": "Latina",
       "event_image_url": "http://imgfz.com/i/CRr25Q8.jpeg",
       "event_type_url": "Exo",
