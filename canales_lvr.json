@@ -57,24 +57,17 @@
       "event_country": "Perú"
     },
     {
-      "event_name_channel": "ESPN",
-      "event_image_url": "http://imgfz.com/i/LaGMqf1.jpeg",
-      "event_type_url": "Exo",
-      "event_url": "https://customer-i41j3tpxy3nf5ekr.cloudflarestream.com/c7fffbfddd8f61fb0f9f63bd5afb21d9/manifest/video.m3u8",
-      "event_country": "Deportes"
-    },
-    {
-      "event_name_channel": "ESPN 5",
-      "event_image_url": "http://imgfz.com/i/Q125jzE.jpeg",
-      "event_type_url": "Exo",
-      "event_url": "https://customer-i41j3tpxy3nf5ekr.cloudflarestream.com/d50c7f3c368a8931acaf7c5189ba00eb/manifest/video.m3u8",
-      "event_country": "Deportes"
-    },
-    {
-      "event_name_channel": "Malcolm",
-      "event_image_url": "http://imgfz.com/i/vzJ8Y6w.jpeg",
+      "event_name_channel": "Series",
+      "event_image_url": "http://imgfz.com/i/qtXM7ja.png",
       "event_type_url": "Exo",
       "event_url": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
+      "event_country": "24/7"
+    },
+        {
+      "event_name_channel": "Gol TV",
+      "event_image_url": "http://imgfz.com/i/MtHTXs8.png",
+      "event_type_url": "Exo",
+      "event_url": "https://customer-i41j3tpxy3nf5ekr.cloudflarestream.com/3e422331d221fdfdbd18a5a966caa4a5/manifest/video.m3u8",
       "event_country": "24/7"
     }
   ]
