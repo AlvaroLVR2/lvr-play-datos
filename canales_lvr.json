@@ -5,6 +5,9 @@
       "event_image_url": "http://imgfz.com/i/y8h159X.png",
       "event_type_url": "Exo",
       "event_url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+      "event_name_channel_2": "Unitel SC",
+      "event_type_url_2": "Exo",
+      "event_url_2": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(1b61d370-19a9-dc17-6ff0-7f2ed9b6f169)/master.mpd",
       "event_country": "Bolivia"
     },
     {
@@ -42,7 +45,7 @@
       "event_url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
       "event_country": "Bolivia"
     },
-        {
+    {
       "event_name_channel": "RTP",
       "event_image_url": "http://imgfz.com/i/tszE90N.jpeg",
       "event_type_url": "Exo",
@@ -61,13 +64,6 @@
       "event_image_url": "http://imgfz.com/i/qtXM7ja.png",
       "event_type_url": "Exo",
       "event_url": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
-      "event_country": "24/7"
-    },
-        {
-      "event_name_channel": "Gol TV",
-      "event_image_url": "http://imgfz.com/i/MtHTXs8.png",
-      "event_type_url": "Exo",
-      "event_url": "https://customer-i41j3tpxy3nf5ekr.cloudflarestream.com/3e422331d221fdfdbd18a5a966caa4a5/manifest/video.m3u8",
       "event_country": "24/7"
     }
   ]
