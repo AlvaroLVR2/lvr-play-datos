@@ -1,4 +1,6 @@
-        {
+{
+  "event_tv_channel": [
+    {
       "event_name_channel": "Unitel LP",
       "event_image_url": "http://imgfz.com/i/y8h159X.png",
       "event_type_url": "Exo",
