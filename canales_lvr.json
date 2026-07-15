@@ -1,16 +1,3 @@
-{
-  "event_tv_channel": [
-    {
-  "event_name_channel": "",
-  "event_image_url": "",
-  "event_type_url": "",
-  "event_url": "",
-  "event_name_channel_2": "",
-  "event_image_url_2": "",
-  "event_type_url_2": "",
-  "event_url_2": "",
-  "event_country": "Bolivia"
-},
         {
       "event_name_channel": "Unitel LP",
       "event_image_url": "http://imgfz.com/i/y8h159X.png",
@@ -62,7 +49,7 @@
     },
     {
       "event_name_channel": "RTP",
-      "event_image_url": "http://imgfz.com/i/tszE90N.jpeg",
+      "event_image_url": "http://imgfz.com/i/SFZfLEN.png",
       "event_type_url": "Exo",
       "event_url": "https://rtp.noxun.net/hls/stream.m3u8",
       "event_country": "Bolivia"
