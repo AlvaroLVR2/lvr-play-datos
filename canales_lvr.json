@@ -7,7 +7,7 @@
       "event_url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
       "event_country": "Bolivia"
     },
-        {
+    {
       "event_name_channel": "Unitel SC",
       "event_image_url": "http://imgfz.com/i/JIRwmfk.jpeg",
       "event_type_url": "Exo",
@@ -63,28 +63,28 @@
       "event_url": "https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8",
       "event_country": "Bolivia"
     },
-        {
+    {
       "event_name_channel": "TELE ESTRELLA TV",
       "event_image_url": "https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg",
       "event_type_url": "Exo",
       "event_url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/chunklist_w2045753825.m3u8",
       "event_country": "Bolivia"
     },
-        {
+    {
       "event_name_channel": "RED GIGAVISION LPZ",
       "event_image_url": "https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg",
       "event_type_url": "Exo",
       "event_url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
       "event_country": "Bolivia"
     },
-            {
+    {
       "event_name_channel": "PALENQUE TV",
       "event_image_url": "https://i.postimg.cc/LXzt1qSF/palenque-tv-hd.jpg",
       "event_type_url": "Exo",
       "event_url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
       "event_country": "Bolivia"
     },
-            {
+    {
       "event_name_channel": "UPEA TV",
       "event_image_url": "https://i.ibb.co/f57nxwg/Upeatv456.jpg",
       "event_type_url": "Exo",
@@ -104,56 +104,56 @@
       "event_type_url": "Exo",
       "event_url": "https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8",
       "event_country": "Bolivia"
-    },  
+    },
     {
-    "event_name_channel": "VOS TV HD",
-    "event_image_url": "https://i.postimg.cc/ZR2B7x2X/PMHD.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1975291800.m3u8",
-    "event_country": "Bolivia"
-  },
-  {
-    "event_name_channel": "UNIFRANZ TV HD",
-    "event_image_url": "https://i.postimg.cc/ZR2B7x2X/PMHD.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://live.enhdtv.com:8081/8192/tracks-v1a1/mono.m3u8",
-    "event_country": "Bolivia"
-  },
-  {
-    "event_name_channel": "RED SIGLO XXI HD",
-    "event_image_url": "https://i.postimg.cc/2jgpYpNz/redameric01x.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://59d39900ebfb8.streamlock.net/sigloxxi/sigloxxi/chunklist_w1833611505.m3u8",
-    "event_country": "Bolivia"
-  },
-  {
-    "event_name_channel": "PAT SANTA CRUZ HD",
-    "event_image_url": "https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
-    "event_country": "Bolivia"
-  },
-  {
-    "event_name_channel": "TVU UMSA HD",
-    "event_image_url": "https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://edge.enhdtv.com/8190/tracks-v1a1/mono.m3u8",
-    "event_country": "Bolivia"
-  },
-  {
-    "event_name_channel": "TDT MULTIMEDIA HD",
-    "event_image_url": "https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
-    "event_country": "Bolivia"
-  },
-  {
-    "event_name_channel": "UNITEL LP",
-    "event_image_url": "https://i.postimg.cc/2jZjpqLT/03unitelsd.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://csc-axs-edge01.sensa.com.ar/live/eds/UnitelLPZ/live_dash_cld/UnitelLPZ.mpd",
-    "event_country": "Bolivia"
-  }
+      "event_name_channel": "VOS TV",
+      "event_image_url": "https://i.postimg.cc/ZR2B7x2X/PMHD.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1975291800.m3u8",
+      "event_country": "Bolivia"
+    },
+    {
+      "event_name_channel": "UNIFRANZ TV",
+      "event_image_url": "https://i.postimg.cc/ZR2B7x2X/PMHD.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://live.enhdtv.com:8081/8192/tracks-v1a1/mono.m3u8",
+      "event_country": "Bolivia"
+    },
+    {
+      "event_name_channel": "RED SIGLO XXI",
+      "event_image_url": "https://i.postimg.cc/2jgpYpNz/redameric01x.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://59d39900ebfb8.streamlock.net/sigloxxi/sigloxxi/chunklist_w1833611505.m3u8",
+      "event_country": "Bolivia"
+    },
+    {
+      "event_name_channel": "PAT SANTA CRUZ",
+      "event_image_url": "https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
+      "event_country": "Bolivia"
+    },
+    {
+      "event_name_channel": "TVU UMSA",
+      "event_image_url": "https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://edge.enhdtv.com/8190/tracks-v1a1/mono.m3u8",
+      "event_country": "Bolivia"
+    },
+    {
+      "event_name_channel": "TDT MULTIMEDIA",
+      "event_image_url": "https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
+      "event_country": "Bolivia"
+    },
+    {
+      "event_name_channel": "UNITEL LP",
+      "event_image_url": "https://i.postimg.cc/2jZjpqLT/03unitelsd.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://csc-axs-edge01.sensa.com.ar/live/eds/UnitelLPZ/live_dash_cld/UnitelLPZ.mpd",
+      "event_country": "Bolivia"
+    },
     {
       "event_name_channel": "Latina",
       "event_image_url": "http://imgfz.com/i/CRr25Q8.jpeg",
@@ -167,14 +167,14 @@
       "event_type_url": "Exo",
       "event_url": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
       "event_country": "24/7"
-    },   
+    },
     {
       "event_name_channel": "Dragon Ball Z",
       "event_image_url": "https://i.postimg.cc/Kj1vXvN3/SER247.jpg",
       "event_type_url": "Exo",
       "event_url": "https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
       "event_country": "24/7"
-    },   
+    },
     {
       "event_name_channel": "WOW PELICULAS",
       "event_image_url": "https://i.postimg.cc/TPZNR8Wp/w0-W1m.jpg",
@@ -182,28 +182,28 @@
       "event_url": "https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
       "event_country": "24/7"
     },
-   {
+    {
       "event_name_channel": "OLDIES HITS",
       "event_image_url": "https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg",
       "event_type_url": "Exo",
       "event_url": "https://video07.logicahost.com.br/oldieshits/oldieshits/chunklist_w1787316660.m3u8",
       "event_country": "24/7"
-    },    
+    },
     {
       "event_name_channel": "ALEGRIA CRISTIANA",
       "event_image_url": "https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg",
       "event_type_url": "Exo",
       "event_url": "https://vdochile.com:3182/stream/play.m3u8",
       "event_country": "24/7"
-    },   
+    },
     {
       "event_name_channel": "DW ESPAÑOL",
       "event_image_url": "https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg",
       "event_type_url": "Exo",
       "event_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8",
       "event_country": "Internacional"
-    }
-        {
+    },
+    {
       "event_name_channel": "RT NOTICIAS",
       "event_image_url": "https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg",
       "event_type_url": "Exo",
@@ -211,25 +211,25 @@
       "event_country": "Internacional"
     },
     {
-    "event_name_channel": "TELESUR FHD",
-    "event_image_url": "https://i.ibb.co/Xzyhx8w/TELESUR-FHD-LATINO.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8",
-    "event_country": "Internacional"
-  },
-  {
-    "event_name_channel": "RED+ HD",
-    "event_image_url": "https://i.postimg.cc/HxfrxNDQ/R-NOTC.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8",
-    "event_country": "Internacional"
-  },
-  {
-    "event_name_channel": "EL TORO TV HD",
-    "event_image_url": "https://i.ibb.co/CbBq6T8/EL-TORO-TV.jpg",
-    "event_type_url": "Exo",
-    "event_url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/tracks-v1a1/mono.ts.m3u8",
-    "event_country": "Internacional"
-  }
+      "event_name_channel": "TELESUR",
+      "event_image_url": "https://i.ibb.co/Xzyhx8w/TELESUR-FHD-LATINO.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8",
+      "event_country": "Internacional"
+    },
+    {
+      "event_name_channel": "RED+",
+      "event_image_url": "https://i.postimg.cc/HxfrxNDQ/R-NOTC.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8",
+      "event_country": "Internacional"
+    },
+    {
+      "event_name_channel": "EL TORO TV",
+      "event_image_url": "https://i.ibb.co/CbBq6T8/EL-TORO-TV.jpg",
+      "event_type_url": "Exo",
+      "event_url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/tracks-v1a1/mono.ts.m3u8",
+      "event_country": "Internacional"
+    }
   ]
 }
