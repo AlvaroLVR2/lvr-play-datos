@@ -16,9 +16,9 @@
     },
     {
       "event_name_channel": "ATB LP",
-      "event_image_url": "http://imgfz.com/i/e0O9cYE.jpeg",
-      "event_type_url": "Web",
-      "event_url": "https://geo.dailymotion.com/player.html?video=x84eirw",
+      "event_image_url": "http://imgfz.com/i/ILPSY2m.png",
+      "event_type_url": "Exo",
+      "event_url": "https://live.eu-north-1b.cf.dmcdn.net/sec2(UUOOAVVfXPP1xV5jh6MMglFkZ-RXujQokYUPc2tm0T8sHKUcAVmdF8mWmkvhQkx92xSskI3WhMIB3aiJE5vAUCjCAGzhhhbrQ8I6_4Xunr6Vt2bSYBgE9nfMdIsmjY7T)/dm/3/x84eirw/d/live-480.m3u8",
       "event_country": "Bolivia"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "event_name_channel": "Las Estrellas",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg",
+      "event_image_url": "http://imgfz.com/i/MITfh8i.png",
       "event_type_url": "Exo",
       "event_url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
       "event_country": "México"
@@ -170,7 +170,7 @@
     },
     {
       "event_name_channel": "Estrella TV",
-      "event_image_url": "https://graph.facebook.com/EstrellaTV/picture?width=200&height=200",
+      "event_image_url": "http://imgfz.com/i/2Hrofc9.jpeg",
       "event_type_url": "Exo",
       "event_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
       "event_country": "México"
@@ -204,20 +204,6 @@
       "event_country": "España"
     },
     {
-      "event_name_channel": "TN Todo Noticias",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/c/todonoticias/live",
-      "event_country": "Argentina"
-    },
-    {
-      "event_name_channel": "Televisión Pública",
-      "event_image_url": "https://i.imgur.com/4hYYpiu.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/user/TVPublicaArgentina/live",
-      "event_country": "Argentina"
-    },
-    {
       "event_name_channel": "El Trece",
       "event_image_url": "https://i.imgur.com/ZK7AQFg.png",
       "event_type_url": "Exo",
@@ -236,27 +222,6 @@
       "event_image_url": "https://i.imgur.com/Jt7dOQm.png",
       "event_type_url": "Exo",
       "event_url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
-      "event_country": "Argentina"
-    },
-    {
-      "event_name_channel": "C5N",
-      "event_image_url": "https://i.imgur.com/E3pamA5.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/c/c5n/live",
-      "event_country": "Argentina"
-    },
-    {
-      "event_name_channel": "A24",
-      "event_image_url": "https://i.imgur.com/OdhF7ym.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/c/A24com/live",
-      "event_country": "Argentina"
-    },
-    {
-      "event_name_channel": "Crónica TV",
-      "event_image_url": "https://i.imgur.com/k2Ku8Ib.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/c/cronicatv/live",
       "event_country": "Argentina"
     },
     {
@@ -295,20 +260,6 @@
       "event_country": "Perú"
     },
     {
-      "event_name_channel": "Panamericana TV",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png",
-      "event_type_url": "Exo",
-      "event_url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8",
-      "event_country": "Perú"
-    },
-    {
-      "event_name_channel": "ATV+ Noticias",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
-      "event_type_url": "Exo",
-      "event_url": "http://45.171.108.253:8888/ATV/index.m3u8",
-      "event_country": "Perú"
-    },
-    {
       "event_name_channel": "Exitosa (ex-Karibeña)",
       "event_image_url": "https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg",
       "event_type_url": "Exo",
@@ -328,20 +279,6 @@
       "event_type_url": "Exo",
       "event_url": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
       "event_country": "Costa Rica"
-    },
-    {
-      "event_name_channel": "Unicanal",
-      "event_image_url": "https://i.imgur.com/brlepuX.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/@unicanalpy/live",
-      "event_country": "Paraguay"
-    },
-    {
-      "event_name_channel": "ABC TV",
-      "event_image_url": "https://i.imgur.com/tBdgllD.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/user/canalabctv/live",
-      "event_country": "Paraguay"
     },
     {
       "event_name_channel": "Canal RTVD 4",
