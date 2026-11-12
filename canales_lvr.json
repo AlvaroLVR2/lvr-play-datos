@@ -25,7 +25,7 @@
       "event_name_channel": "Bolivia TV 2",
       "event_image_url": "http://imgfz.com/i/rRXvw1U.jpeg",
       "event_type_url": "Exo",
-      "event_url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(JdzKOygUhUr04hwYIQGkoBPq0DAVffHWjCHwwdws0o7hha52EqvUIJCKYHAEJccyBZFp2YIGRpaXFHSmVYZpz605wJVb1jieejocEjNPM3L9gYEGyHUK_VZ4ZjpRIioT)/cloud/3/x9ny70y/d/live-380.m3u8",
+      "event_url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(b60v0tgv7nwYi8Rn9GJ5xNhsZHVK3brAU2qySWUgWuBh9nCQoO8t58B5_DMuzHt1DkHkERSMplXHIE7sQRkXF4_pXXS19Ai0GJ4SyxBQYlGY0ndxJs_k6ietytyEQkl5)/cloud/3/x9ny70y/d/live-380.m3u8",
       "event_country": "Bolivia"
     },
     {
@@ -47,13 +47,6 @@
       "event_image_url": "https://i.ibb.co/bgscxnc/LATINA-HD.jpg",
       "event_type_url": "Exo",
       "event_url": "https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8",
-      "event_country": "Bolivia"
-    },
-    {
-      "event_name_channel": "TELE ESTRELLA TV",
-      "event_image_url": "https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg",
-      "event_type_url": "Exo",
-      "event_url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/chunklist_w2045753825.m3u8",
       "event_country": "Bolivia"
     },
     {
@@ -92,13 +85,6 @@
       "event_country": "Bolivia"
     },
     {
-      "event_name_channel": "VOS TV",
-      "event_image_url": "https://i.postimg.cc/ZR2B7x2X/PMHD.jpg",
-      "event_type_url": "Exo",
-      "event_url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1975291800.m3u8",
-      "event_country": "Bolivia"
-    },
-    {
       "event_name_channel": "UNIFRANZ TV",
       "event_image_url": "https://i.postimg.cc/ZR2B7x2X/PMHD.jpg",
       "event_type_url": "Exo",
@@ -106,17 +92,10 @@
       "event_country": "Bolivia"
     },
     {
-      "event_name_channel": "RED SIGLO XXI",
-      "event_image_url": "https://i.postimg.cc/2jgpYpNz/redameric01x.jpg",
-      "event_type_url": "Exo",
-      "event_url": "https://59d39900ebfb8.streamlock.net/sigloxxi/sigloxxi/chunklist_w1833611505.m3u8",
-      "event_country": "Bolivia"
-    },
-    {
-      "event_name_channel": "PAT SANTA CRUZ",
+      "event_name_channel": "PAT",
       "event_image_url": "https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg",
       "event_type_url": "Exo",
-      "event_url": "https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd",
+      "event_url": "https://www.redpat.tv:8000/play/12/index.m3u8",
       "event_country": "Bolivia"
     },
     {
@@ -141,38 +120,10 @@
       "event_country": "México"
     },
     {
-      "event_name_channel": "Hipodromo de las Americas",
-      "event_image_url": "https://i.imgur.com/wc8MlGw.png",
-      "event_type_url": "Exo",
-      "event_url": "http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8",
-      "event_country": "México"
-    },
-    {
-      "event_name_channel": "MVM Noticias",
-      "event_image_url": "https://i.imgur.com/dhLXN9n.png",
-      "event_type_url": "Exo",
-      "event_url": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8",
-      "event_country": "México"
-    },
-    {
-      "event_name_channel": "RCG 3 Saltillo",
-      "event_image_url": "https://i.imgur.com/NefH5qZ.png",
-      "event_type_url": "Exo",
-      "event_url": "http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8",
-      "event_country": "México"
-    },
-    {
       "event_name_channel": "TeleFormula",
       "event_image_url": "https://i.imgur.com/jR6taXt.png",
       "event_type_url": "Exo",
       "event_url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
-      "event_country": "México"
-    },
-    {
-      "event_name_channel": "NRT 4 Monclova",
-      "event_image_url": "https://i.imgur.com/IudKE0n.png",
-      "event_type_url": "Exo",
-      "event_url": "https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8",
       "event_country": "México"
     },
     {
@@ -225,13 +176,6 @@
       "event_country": "México"
     },
     {
-      "event_name_channel": "TELE 10 Nayarit",
-      "event_image_url": "https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200",
-      "event_type_url": "Exo",
-      "event_url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
-      "event_country": "México"
-    },
-    {
       "event_name_channel": "La 1",
       "event_image_url": "https://i.imgur.com/NbesiPn.png",
       "event_type_url": "Exo",
@@ -246,34 +190,6 @@
       "event_country": "España"
     },
     {
-      "event_name_channel": "Antena 3",
-      "event_image_url": "https://i.imgur.com/j3SP4BS.png",
-      "event_type_url": "Exo",
-      "event_url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "Cuatro",
-      "event_image_url": "https://i.imgur.com/zROxNap.png",
-      "event_type_url": "Exo",
-      "event_url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "Telecinco",
-      "event_image_url": "https://i.imgur.com/JECsKdk.png",
-      "event_type_url": "Exo",
-      "event_url": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "La Sexta",
-      "event_image_url": "https://i.imgur.com/b59MxgM.png",
-      "event_type_url": "Exo",
-      "event_url": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8",
-      "event_country": "España"
-    },
-    {
       "event_name_channel": "24h",
       "event_image_url": "https://i.imgur.com/ZKR2jKr.png",
       "event_type_url": "Exo",
@@ -285,41 +201,6 @@
       "event_image_url": "https://i.imgur.com/HliegRJ.png",
       "event_type_url": "Exo",
       "event_url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "Neox",
-      "event_image_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png",
-      "event_type_url": "Exo",
-      "event_url": "http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "Mega",
-      "event_image_url": "https://i.imgur.com/Udrt2eK.png",
-      "event_type_url": "Exo",
-      "event_url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "FDF",
-      "event_image_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png",
-      "event_type_url": "Exo",
-      "event_url": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "Divinity",
-      "event_image_url": "https://i.imgur.com/o7fvEr6.png",
-      "event_type_url": "Exo",
-      "event_url": "https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8",
-      "event_country": "España"
-    },
-    {
-      "event_name_channel": "Energy",
-      "event_image_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png",
-      "event_type_url": "Exo",
-      "event_url": "https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio_spa=128000-video=1500000.m3u8",
       "event_country": "España"
     },
     {
@@ -348,13 +229,6 @@
       "event_image_url": "https://i.imgur.com/wrZfMXn.png",
       "event_type_url": "Exo",
       "event_url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
-      "event_country": "Argentina"
-    },
-    {
-      "event_name_channel": "El Nueve",
-      "event_image_url": "https://i.imgur.com/EtcVSm4.png",
-      "event_type_url": "Exo",
-      "event_url": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8",
       "event_country": "Argentina"
     },
     {
@@ -391,34 +265,6 @@
       "event_type_url": "Exo",
       "event_url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "event_country": "Argentina"
-    },
-    {
-      "event_name_channel": "TVN",
-      "event_image_url": "https://i.imgur.com/WoN1dai.png",
-      "event_type_url": "Exo",
-      "event_url": "https://iptv2.intersurtv.cl/TVN/index.m3u8",
-      "event_country": "Chile"
-    },
-    {
-      "event_name_channel": "24 horas",
-      "event_image_url": "https://i.imgur.com/0rF6Kub.png",
-      "event_type_url": "Exo",
-      "event_url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8",
-      "event_country": "Chile"
-    },
-    {
-      "event_name_channel": "Chilevisión",
-      "event_image_url": "https://i.imgur.com/2Pu8yXf.png",
-      "event_type_url": "Exo",
-      "event_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
-      "event_country": "Chile"
-    },
-    {
-      "event_name_channel": "Canal 13",
-      "event_image_url": "https://i.imgur.com/JIo1HBs.png",
-      "event_type_url": "Exo",
-      "event_url": "https://redirector.dps.live/hls/13cl/playlist.m3u8",
-      "event_country": "Chile"
     },
     {
       "event_name_channel": "T13 en vivo",
@@ -477,52 +323,10 @@
       "event_country": "Perú"
     },
     {
-      "event_name_channel": "Venevisión",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Venevisi%C3%B3n2007.svg/500px-Venevisi%C3%B3n2007.svg.png",
-      "event_type_url": "Exo",
-      "event_url": "http://177.234.249.178:8888/VENEVISION/index.m3u8",
-      "event_country": "Venezuela"
-    },
-    {
-      "event_name_channel": "Televen",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG",
-      "event_type_url": "Exo",
-      "event_url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
-      "event_country": "Venezuela"
-    },
-    {
-      "event_name_channel": "Globovisión",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png",
-      "event_type_url": "Exo",
-      "event_url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
-      "event_country": "Venezuela"
-    },
-    {
-      "event_name_channel": "TELESUR",
-      "event_image_url": "https://i.ibb.co/Xzyhx8w/TELESUR-FHD-LATINO.jpg",
-      "event_type_url": "Exo",
-      "event_url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8",
-      "event_country": "Venezuela"
-    },
-    {
-      "event_name_channel": "Canal 6",
-      "event_image_url": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-Costa-Rica-en-vivo-Online.png",
-      "event_type_url": "Exo",
-      "event_url": "https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8",
-      "event_country": "Costa Rica"
-    },
-    {
       "event_name_channel": "Canal 8",
       "event_image_url": "https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png",
       "event_type_url": "Exo",
       "event_url": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
-      "event_country": "Costa Rica"
-    },
-    {
-      "event_name_channel": "Canal 11",
-      "event_image_url": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica-en-vivo-Online.png",
-      "event_type_url": "Exo",
-      "event_url": "https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8",
       "event_country": "Costa Rica"
     },
     {
@@ -547,13 +351,6 @@
       "event_country": "República Dominicana"
     },
     {
-      "event_name_channel": "Series",
-      "event_image_url": "http://imgfz.com/i/qtXM7ja.png",
-      "event_type_url": "Exo",
-      "event_url": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
-      "event_country": "24/7"
-    },
-    {
       "event_name_channel": "OLDIES HITS",
       "event_image_url": "https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg",
       "event_type_url": "Exo",
@@ -566,13 +363,6 @@
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0pk",
       "event_country": "24/7"
-    },
-    {
-      "event_name_channel": "Euronews Español",
-      "event_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png",
-      "event_type_url": "Web",
-      "event_url": "https://www.youtube.com/euronewses/live",
-      "event_country": "Internacional"
     },
     {
       "event_name_channel": "France 24 Español",
