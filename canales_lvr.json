@@ -2,7 +2,7 @@
   "event_tv_channel": [
     {
       "event_name_channel": "Unitel",
-      "event_image_url": "http://imgfz.com/i/JIRwmfk.jpeg",
+      "event_image_url": "http://imgfz.com/i/j4HcJf5.jpeg",
       "event_type_url": "Exo",
       "event_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(1b61d370-19a9-dc17-6ff0-7f2ed9b6f169)/master.mpd",
       "event_country": "Bolivia"
@@ -198,42 +198,42 @@
     },
     {
       "event_name_channel": "HBO Xtreme HD",
-      "event_image_url": "",
+      "event_image_url": "http://imgfz.com/i/SaKhD3o.png",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0qy",
       "event_country": "Premium"
     },
     {
       "event_name_channel": "Las Estrellas HD",
-      "event_image_url": "",
+      "event_image_url": "http://imgfz.com/i/DyA8H0C.jpeg",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0qu",
       "event_country": "Premium"
     },
     {
       "event_name_channel": "Nickelodeon HD",
-      "event_image_url": "",
+      "event_image_url": "http://imgfz.com/i/Bo7PanX.webp",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0qm",
       "event_country": "Premium"
     },
     {
       "event_name_channel": "Space HD",
-      "event_image_url": "",
+      "event_image_url": "http://imgfz.com/i/Z5UNyIh.jpeg",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0q2",
       "event_country": "Premium"
     },
     {
       "event_name_channel": "Tlnovelas",
-      "event_image_url": "",
+      "event_image_url": "http://imgfz.com/i/pG8w4Bi.jpeg",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0t6",
       "event_country": "Premium"
     },
     {
       "event_name_channel": "UNIVERSAL CHANNEL HD",
-      "event_image_url": "",
+      "event_image_url": "http://imgfz.com/i/AvHBq8t.webp",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0mw",
       "event_country": "Premium"
