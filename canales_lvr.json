@@ -17,15 +17,8 @@
     {
       "event_name_channel": "ATB LP",
       "event_image_url": "http://imgfz.com/i/ILPSY2m.png",
-      "event_type_url": "Exo",
+      "event_type_url": "Web",
       "event_url": "https://geo.dailymotion.com/player.html?video=x84eirw",
-      "event_country": "Bolivia"
-    },
-    {
-      "event_name_channel": "Bolivia TV 2",
-      "event_image_url": "http://imgfz.com/i/rRXvw1U.jpeg",
-      "event_type_url": "Exo",
-      "event_url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(b60v0tgv7nwYi8Rn9GJ5xNhsZHVK3brAU2qySWUgWuBh9nCQoO8t58B5_DMuzHt1DkHkERSMplXHIE7sQRkXF4_pXXS19Ai0GJ4SyxBQYlGY0ndxJs_k6ietytyEQkl5)/cloud/3/x9ny70y/d/live-380.m3u8",
       "event_country": "Bolivia"
     },
     {
@@ -82,13 +75,6 @@
       "event_image_url": "https://i.postimg.cc/ZR2B7x2X/PMHD.jpg",
       "event_type_url": "Exo",
       "event_url": "https://live.enhdtv.com:8081/8192/tracks-v1a1/mono.m3u8",
-      "event_country": "Bolivia"
-    },
-    {
-      "event_name_channel": "PAT",
-      "event_image_url": "https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg",
-      "event_type_url": "Exo",
-      "event_url": "https://www.redpat.tv:8000/play/12/index.m3u8",
       "event_country": "Bolivia"
     },
     {
