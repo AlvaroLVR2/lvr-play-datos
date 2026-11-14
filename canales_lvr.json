@@ -18,7 +18,7 @@
       "event_name_channel": "ATB LP",
       "event_image_url": "http://imgfz.com/i/ILPSY2m.png",
       "event_type_url": "Exo",
-      "event_url": "https://live.eu-north-1b.cf.dmcdn.net/sec2(UUOOAVVfXPP1xV5jh6MMglFkZ-RXujQokYUPc2tm0T8sHKUcAVmdF8mWmkvhQkx92xSskI3WhMIB3aiJE5vAUCjCAGzhhhbrQ8I6_4Xunr6Vt2bSYBgE9nfMdIsmjY7T)/dm/3/x84eirw/d/live-480.m3u8",
+      "event_url": "https://geo.dailymotion.com/player.html?video=x84eirw",
       "event_country": "Bolivia"
     },
     {
@@ -54,13 +54,6 @@
       "event_image_url": "https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg",
       "event_type_url": "Exo",
       "event_url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
-      "event_country": "Bolivia"
-    },
-    {
-      "event_name_channel": "PALENQUE TV",
-      "event_image_url": "https://i.postimg.cc/LXzt1qSF/palenque-tv-hd.jpg",
-      "event_type_url": "Exo",
-      "event_url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
       "event_country": "Bolivia"
     },
     {
@@ -113,54 +106,54 @@
       "event_country": "Bolivia"
     },
     {
-    "event_name_channel": "ESPN 2 HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0qj",
-    "event_country": "Deportes"
-  },
-  {
-    "event_name_channel": "ESPN 3 HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0s6",
-    "event_country": "Deportes"
-  },
-  {
-    "event_name_channel": "ESPN 4 HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0s9",
-    "event_country": "Deportes"
-  },
-  {
-    "event_name_channel": "ESPN 5 HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0s5",
-    "event_country": "Deportes"
-  },
-  {
-    "event_name_channel": "ESPN 6 HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0s3",
-    "event_country": "Deportes"
-  },
-  {
-    "event_name_channel": "ESPN 7 HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0s8",
-    "event_country": "Deportes"
-  },
-  {
-    "event_name_channel": "Espn Premium",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0r2",
-    "event_country": "Deportes"
-  },  
+      "event_name_channel": "ESPN 2 HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0qj",
+      "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "ESPN 3 HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0s6",
+      "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "ESPN 4 HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0s9",
+      "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "ESPN 5 HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0s5",
+      "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "ESPN 6 HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0s3",
+      "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "ESPN 7 HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0s8",
+      "event_country": "Deportes"
+    },
+    {
+      "event_name_channel": "Espn Premium",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0r2",
+      "event_country": "Deportes"
+    },
     {
       "event_name_channel": "Latina",
       "event_image_url": "http://imgfz.com/i/CRr25Q8.jpeg",
@@ -181,7 +174,7 @@
       "event_type_url": "Exo",
       "event_url": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
       "event_country": "Perú"
-    },   
+    },
     {
       "event_name_channel": "Gogo Play",
       "event_image_url": "http://imgfz.com/i/DW7wX0z.jpeg",
@@ -195,21 +188,21 @@
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0pk",
       "event_country": "Premium"
-    },    
+    },
     {
       "event_name_channel": "Cine Canal",
       "event_image_url": "http://imgfz.com/i/5snYgpv.jpeg",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0pp",
       "event_country": "Premium"
-    },   
+    },
     {
       "event_name_channel": "Comedy Central",
       "event_image_url": "http://imgfz.com/i/8iRxvUQ.jpeg",
       "event_type_url": "Exo",
       "event_url": "http://181.78.79.131:8000/play/a0mu",
       "event_country": "Premium"
-    },    
+    },
     {
       "event_name_channel": "Disney Jr",
       "event_image_url": "http://imgfz.com/i/t4l7SgW.jpeg",
@@ -218,47 +211,47 @@
       "event_country": "Premium"
     },
     {
-    "event_name_channel": "HBO Xtreme HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0qy",
-    "event_country": "Premium"
-  },
-  {
-    "event_name_channel": "Las Estrellas HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0qu",
-    "event_country": "Premium"
-  },
-  {
-    "event_name_channel": "Nickelodeon HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0qm",
-    "event_country": "Premium"
-  },
-  {
-    "event_name_channel": "Space HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0q2",
-    "event_country": "Premium"
-  },
-  {
-    "event_name_channel": "Tlnovelas",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0t6",
-    "event_country": "Premium"
-  },
-  {
-    "event_name_channel": "UNIVERSAL CHANNEL HD",
-    "event_image_url": "",
-    "event_type_url": "Exo",
-    "event_url": "http://181.78.79.131:8000/play/a0mw",
-    "event_country": "Premium"
-  }
+      "event_name_channel": "HBO Xtreme HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0qy",
+      "event_country": "Premium"
+    },
+    {
+      "event_name_channel": "Las Estrellas HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0qu",
+      "event_country": "Premium"
+    },
+    {
+      "event_name_channel": "Nickelodeon HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0qm",
+      "event_country": "Premium"
+    },
+    {
+      "event_name_channel": "Space HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0q2",
+      "event_country": "Premium"
+    },
+    {
+      "event_name_channel": "Tlnovelas",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0t6",
+      "event_country": "Premium"
+    },
+    {
+      "event_name_channel": "UNIVERSAL CHANNEL HD",
+      "event_image_url": "",
+      "event_type_url": "Exo",
+      "event_url": "http://181.78.79.131:8000/play/a0mw",
+      "event_country": "Premium"
+    },
     {
       "event_name_channel": "Alcarria TV",
       "event_image_url": "https://i.imgur.com/zNSuxVZ.jpg",
